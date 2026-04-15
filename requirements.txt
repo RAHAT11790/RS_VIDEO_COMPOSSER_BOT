@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+pytgcalls==5.0.0
+Pillow==10.1.0
+Flask==2.3.3
+aiohttp==3.9.1
